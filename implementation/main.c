@@ -1,4 +1,4 @@
-#include "header.h"
+#include "inc"
 int main ()
 {
     printf ("\t\t     Welcome To Cafe Aroma\n");
