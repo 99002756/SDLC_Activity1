@@ -1,7 +1,7 @@
 #include "header.h"
 int main ()
 {
-    printf ("\t\t     Welcome To Cafe Aroma\n");
+    printf ("\t\t     Welcome To Cafe \n");
     while (1){
         printf ("1. Order\n2. Serve\n3. Display \n4. Exit the program\n");
 
